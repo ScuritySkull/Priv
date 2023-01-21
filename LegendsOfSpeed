@@ -1,5 +1,5 @@
-local Update =  loadstring(Game:HttpGet"https://pastebin.com/raw/BY0cL6ZU")()
-local Library = Update:Window("2X","",Enum.KeyCode.RightControl);
+local Update =  loadstring(Game:HttpGet"https://raw.githubusercontent.com/ScuritySkull/Priv/main/LibSkull.lua")()
+local Library = Update:Window("Skull Hub","",Enum.KeyCode.RightControl);
 local main = Library:Tab("Main", "rbxassetid://6026568198")
 local ss = Library:Tab("Auto Farm", "rbxassetid://7044284832")
 local sss = Library:Tab("Teleport", "rbxassetid://6035190846")
