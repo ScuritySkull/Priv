@@ -20,8 +20,6 @@ local function loading()
     local player = game.Players.LocalPlayer
     if game.PlaceId == 3101667897 then
     _G.nameGame = "Legends Of Speed"
-    elseif game.PlaceId == then
-    _G.nameGame = "Test Game"
     else
     _G.nameGame = "Games Not Found"
     end
